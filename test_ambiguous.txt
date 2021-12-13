@@ -1,0 +1,10 @@
+WHILE
+h1 & h2
+DO
+h2:= l1
+IF
+h2
+THEN
+h1 := h1+l1
+ELSE
+h1 := h1+l2

@@ -1,0 +1,6 @@
+IF
+l1 
+THEN
+h1 := h2
+ELSE
+h1 := h2

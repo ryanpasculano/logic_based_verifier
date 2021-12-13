@@ -1,0 +1,6 @@
+IF
+h1 & h2
+THEN
+l1 := l2
+ELSE
+SKIP

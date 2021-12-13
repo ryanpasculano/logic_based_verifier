@@ -1,0 +1,4 @@
+WHILE
+h1 & l1
+DO
+h1 := h1 + l1 
